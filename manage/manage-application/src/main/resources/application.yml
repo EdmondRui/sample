@@ -1,0 +1,13 @@
+server:
+  port: 9001
+
+dubbo:
+  application:
+    name: manage-application
+  registry:
+    protocol: zookeeper
+    address: 192.168.154.201:2181
+    group: /test/dubbo
+  consumer:
+    check: false
+
