@@ -23,7 +23,7 @@
         <druid.version>1.0.26</druid.version>
         <dubbo.version>2.7.1</dubbo.version>
         <curator.version>2.12.0</curator.version>
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <mybatis.version>2.0.0</mybatis.version>
         <fastjson.version>1.2.56</fastjson.version>
         <lombok.version>1.16.20</lombok.version>
